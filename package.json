@@ -1,0 +1,23 @@
+{
+  "name": "definitivohtmlcssplatzi",
+  "version": "1.0.0",
+  "description": "Curso Definitivo para aprender HTML y CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanPabloOspina/DefinitivoHTMLCSSPlatzi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanPabloOspina/DefinitivoHTMLCSSPlatzi/issues"
+  },
+  "homepage": "https://github.com/JuanPabloOspina/DefinitivoHTMLCSSPlatzi#readme",
+  "dependencies": {
+    "normalize": "^0.3.1",
+    "normalize.css": "^8.0.1"
+  }
+}
