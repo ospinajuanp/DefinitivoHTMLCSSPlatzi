@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-family: serif;
+    color: #951095;
+    margin-bottom: 15px;
+}
+#page-tittle{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tittle{
+    font-size: 18px;
+    font-family: monospace;
+}
+#main-nav{
+    margin-top: 15px;
+    list-style-type: none;
+    padding-left: 0;
+}
+#main-nav li{
+    display: inline-block;
+}
+#main-nav a{
+    color: #fff;
+    background-color: #00ADB5;
+    padding: 5px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+#main-nav .blog{
+    background-color: #c00;
+}
