@@ -1,3 +1,21 @@
+*{
+    font-size: 30px;
+}
 h2 + p{
+    /*Hermano de p asi arriba h2*/
     color: #f00;
+}
+
+h2 ~ p {
+    /*Hermano en el mismo block ejemplo en el div*/
+    color: #0f0;
+}
+div > p {
+    /*Hijo/a directa de div siedo parrafo lo que se le asigna*/
+    color: #90f;
+}
+
+div p {
+    /*Todos los hijos directos e indirectos del div siendo parrafo lo que se le asigna*/
+    color: #9d3;
 }
